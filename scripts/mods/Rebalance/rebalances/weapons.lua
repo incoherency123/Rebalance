@@ -825,7 +825,7 @@ NewDamageProfileTemplates.one_hand_sword_wood_elf_light_1 = {
 			impact = 0.05
 		}
 	},
-	targets_linesman_L = {
+	targets = {
 		{
 			boost_curve_coefficient_headshot = 2.5,
 			boost_curve_type = "linesman_curve",
@@ -885,7 +885,7 @@ NewDamageProfileTemplates.one_hand_sword_wood_elf_light_3 = {
         attack = 0.075,
         impact = 0.075
     },
-    default_target_stab_smiter_L = {
+    default_target = {
 		boost_curve_coefficient_headshot = 2,
 		boost_curve_type = "smiter_curve",
 		boost_curve_coefficient = 0.75,
@@ -895,7 +895,7 @@ NewDamageProfileTemplates.one_hand_sword_wood_elf_light_3 = {
 			impact = 0.075
 		}
 	},
-	targets_stab_smiter_L = {
+	targets = {
 		{
 			boost_curve_coefficient_headshot = 2,
 			boost_curve_type = "smiter_curve",
