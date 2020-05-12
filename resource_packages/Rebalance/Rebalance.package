@@ -1,0 +1,11 @@
+mod = [
+	"Rebalance"
+]
+
+package = [
+	"resource_packages/Rebalance/Rebalance"
+]
+
+lua = [
+	"scripts/mods/Rebalance/*"
+]
